@@ -6,5 +6,6 @@ It will take an IP address and network mask and show information about the netwo
 
 All methods are Class methods, and can be used without instantiating the class itself.
 
-## Getting Started
+## Installing
+The package is available at PyPi. Just run `pip install spts-netcalc`
 
