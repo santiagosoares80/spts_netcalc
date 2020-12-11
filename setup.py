@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="spts_netcalc", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Santiago Soares",
     author_email="santiagosoares@gmail.com",
     description="A simple network calculator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    #url="https://github.com/",
+    url="https://github.com/santiagosoares80/spts_netcalc",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
