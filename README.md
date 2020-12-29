@@ -41,8 +41,9 @@ These are the methods currently available:
 
 `split_to_octets()`: split a network address or mask in dot-decimal format in a list of octets in int format
 
-## Executing program
-Use the folowing to obtain more information about the methods available:
+## Help
+
+Use the folowing to obtain more information about the above methods, such as arguments and return types:
 
 ```python
 import spts_netcalc
