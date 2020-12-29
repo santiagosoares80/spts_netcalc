@@ -1,5 +1,5 @@
 # Network Calculator
-This is a simple implementation of a network calculator implemented in Python.
+This is a simple implementation of a network calculator developed in Python.
 
 ## Description
 It will take an IP address and network mask and show information about the network like hosts addresses, broadcast address, wildcard mask, etc.
